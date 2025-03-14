@@ -25,10 +25,3 @@ Contains all learning materials from learning Data Analytics. Every header is hy
 
 ## [Tableau]()
 
-
-## [Snowflake]()
-
-
-## [Amazon Web Services (AWS)]()
-
-
