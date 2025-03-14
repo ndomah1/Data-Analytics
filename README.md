@@ -1,5 +1,5 @@
 # Data Analytics
-Contains all learning materials from learning Data Analytics
+Contains all learning materials from learning Data Analytics. Every header is hyperlinked to its respective repository.
 
 ## [What is a Data Analyst?]()
 
