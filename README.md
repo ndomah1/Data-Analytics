@@ -1,2 +1,22 @@
 # Data Analytics
-Contains all learning materials, practice problems, and projects from a Data Analyst Bootcamp I took.
+Contains all learning materials from learning Data Analytics
+
+## [What is a Data Analyst?]()
+
+## [Microsoft Excel]()
+
+## [Probability & Statistics]()
+
+## [Structured Query Language (SQL)]()
+
+## [Python]()
+
+## [Git]()
+
+## [Power BI]()
+
+## [Tableau]()
+
+## [Snowflake]()
+
+## [Amazon Web Services (AWS)]()
